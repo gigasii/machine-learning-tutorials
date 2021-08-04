@@ -1,0 +1,6 @@
+﻿env
+.vscode
+*.pk1
+unstructured/data
+unstructured/logs
+unstructured/models
